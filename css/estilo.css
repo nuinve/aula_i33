@@ -8,4 +8,10 @@ body{
     height: 200px;
     border: 2px dashed purple;
 }
+.box1{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border: 2px dashed #e2850c;
+}
 
